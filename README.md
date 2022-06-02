@@ -1,12 +1,8 @@
 # GARFIELD WHATSAPP USER BOT LATEST VERSION
-<img src="/TempCloud/PicsArt_22-04-17_16-25-53-440.png">
 
 <br>
-<center><img src="/TempCloud/PicsArt_22-04-15_10-13-49-205.png"><center>
-  
  <br>
   <br>
-  <span style="float:right;"><img src="/TempCloud/PicsArt_22-04-14_23-29-34-684.png"></span>
 
   <br>
  
@@ -17,15 +13,14 @@ Garfield can make your work easier and do whatever you want. You can easily inst
 Contains over 120+ plugins. This will give you a better experience on WhatsApp. You can download songs and videos fast. This is updated daily so more features are always added
 .This allows you to have fun with friends<b>
  
-  <img src="/TempCloud/PicsArt_22-04-17_17-34-37-772.png">
+  
     
   <b><h1>To scan the Qr code and Link to WhatsApp 🛰️</b></h1>
   
  <center>
-<a href="https://replit.com/@zenoi/GARFIELD-v60-QR-GENERTOR?v=1"><img src="/TempCloud/PicsArt_22-04-16_22-52-38-348.png"></center>
+
 <br>
-   <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FZenoixnoize%2FGARFIELD-6.0%2Fblob%2Fmain%2FREADME.md&template=https%3A%2F%2Fgithub.com%2FZenoixnoize%2FGARFIELD-6.0"><img src="/TempCloud/PicsArt_22-04-15_12-59-28-786.png">
+
 <br>
 <b><h1>Privacy and Security 🔒</h1></b>
 This module does not harm your privacy or personal data. We do not have any of your access. This is a completely secure program.     
@@ -57,7 +52,7 @@ You can use it without any hesitation
    ⬇️ Then go More > View logs and Once loaded, open your WhatsApp and keep it online
 <br>
    <br>
-  <center><img src="/TempCloud/cover.png">
+  
     <br>
    <h1>Licence 📑</h1>
     This project is protected by GNU General Public Licence v3.0 ©️ Copyright 2022.
@@ -92,7 +87,7 @@ Also I am Student
    <b>This has been updated to the latest 2022 npm module. There are 120+ plugins. Deploying is quick and easy. Download speeds and upload speeds are very fast.The speed of response has increased. Fixed some bugs. Updated daily baileys 2022 Updated</b>    
   <br>
    <br>
-  <center><img src="/TempCloud/ezgif-4-e173d31b67.gif"></center>
+  
   <br>
   
     
