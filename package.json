@@ -1,21 +1,21 @@
+
 {
-  "name": "xmoduleslatest",
+  "name": "xmodules",
   "version": "1.0.0",
-  "description": "GARFIELD BY NOIZE",
+  "description": "x-nodes server package",
+  "main": "stack.js",
+  "directories": {
+    "lib": "lib"
   },
-  "keywords": [
-    "GARFIELD",
-    "NOIZE",
-    "2022",
-    "THARINDU",
-    "ZENOI",
-    "NOIZE",
-    "BOT",
-    "NEW",
-    "multi-device"
-  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenoixnoize/Xmodules.git"
+  },
   "author": "Zenoixnoize",
-  "license": "MIT",
+  "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -52,18 +52,11 @@
     "yargs": "^17.2.1",
     "xfarr-api": "^1.0.2",
     "yt-search": "^2.10.2"
-  },
-  "directories": {
-    "lib": "lib",
-    "src": "src"
+"
   },
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Zenoixnoize/Xmodules.git"
-  },
   "bugs": {
-    "url": "https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8/issues"
+    "url": "https://github.com/Zenoixnoize/Xmodules/issues"
   },
-  "homepage": "https://github.com/Zenoixnoize/Xmodules/#readme"
+  "homepage": "https://github.com/Zenoixnoize/Xmodules#readme"
 }
